@@ -16,14 +16,12 @@ Simulei o contest [Codeforces Round 957 (Div. 3)](https://codeforces.com/contest
 
 Porém, apesar desses erros, valeu a experiência de codar em grupo :)
 
-[Códigos aqui]().
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round957).
 
 ## 10/AGO - 5h
 Fiz a prova da [seletiva USP](https://codeforces.com/gym/105297) em grupo com meus amigos (Fernando Lima e Felipe Anibal). Embora só tenhamos conseguido fazer a I e a J, tivemos ideias para a A e a G. Com essa prova, percebi que ainda há muito conteúdo para estudar.
 
 Quero tentar upsolvar essa prova.
-
-[Códigos aqui]().
 
 ## 13/AGO - 3h (2h + 1h upsolving)
 Fiz o contest [Codeforces Round 966 (Div. 3)](https://codeforces.com/contest/2000) ao vivo. Consegui passar até a D. Fiquei travado na E tentando achar uma fórmula para o número de retângulos que continham uma célula.
