@@ -21,6 +21,8 @@ Porém, apesar desses erros, valeu a experiência de codar em grupo :)
 ## 10/AGO - 5h
 Fiz a prova da [seletiva USP](https://codeforces.com/gym/105297) em grupo com meus amigos (Fernando Lima e Felipe Anibal). Embora só tenhamos conseguido fazer a I e a J, tivemos ideias para a A e a G. Com essa prova, percebi que ainda há muito conteúdo para estudar.
 
+Quero tentar upsolvar essa prova.
+
 [Códigos aqui]().
 
 ## 13/AGO - 3h (2h + 1h upsolving)
@@ -52,3 +54,24 @@ Simulei o contest [Codeforces Round 937 (Div. 4)](https://codeforces.com/contest
 Ainda tenho que upsolvar esse contest.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round937).
+
+## 27/AGO - 3h (2h + 1h upsolving)
+Simulei o contest [Codeforces Round 968 (Div. 2)](https://codeforces.com/contest/2003). Consegui passar somente até a B. Acho que foi meu pior desempenho até agora, fiquei travado em todas as questões da A até a C. Entre meus erros, notei que li o enunciado errado e fiquei insistindo em ideias erradas em vez de tentar outras alternativas.
+
+Upsolvei a C (já havia começado no contest) e a D1.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div2-round968).
+
+## 29/AGO - 2h
+Simulei o contest [Codeforces Round 952 (Div. 4)](https://codeforces.com/contest/1985). Consegui passar até a F. Cheguei a começar a G, tive a ideia de gerar as respostas para os primeiros na força brutal e tentar encontrar um padrão, até consegui, mas não deu tempo de codar. Depois, cheguei a ler o editorial e vi que o padrão estava certo, mas não entendi por que funciona.
+
+Ainda tenho que upsolvar esse contest.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round952).
+
+## 01/SET - 3h (2h + 1h upsolving)
+Fiz o contest [Codeforces Round 970 (Div. 3)](https://codeforces.com/contest/2008) ao vivo. Consegui passar até a D. Fiquei travando tentando achar o meu erro no código da E (a ideia estava certa), porém, não consegui a tempo.
+
+Upsolvei a E (achei o erro) e a F (fiquei triste porque ela era fácil, se eu tivesse lido antes, teria conseguido fazer ao vivo).
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round970).
