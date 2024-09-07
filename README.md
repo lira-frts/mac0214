@@ -36,3 +36,19 @@ Fiz o contest [Educational Codeforces Round 169 (Rated for Div. 2)](https://code
 Upsolvei a D (utilizando map, algo que não tinha se passado pela minha cabeça durante a prova) e a E (aprendi o que é nim).
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div2-round169).
+
+## 20/AGO - 3h (2h + 1h upsolving)
+Fiz o contest [Codeforces Round 967 (Div. 2)](https://codeforces.com/contest/2001). Consegui passar até a C. Somente li a D, nem deu muito tempo de pensar nela. Tive a impressão de que os códigos eram fáceis de codar, porém, as ideias eram difíceis de chegar.
+
+Upsolvei a D (novamente, o código era fácil, porém, a ideia difícil).
+
+Nesse contest, virei verde no CF :)
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div2-round967).
+
+## 22/AGO - 2h
+Simulei o contest [Codeforces Round 937 (Div. 4)](https://codeforces.com/contest/1950). Consegui passar até a D. Fiquei travado na E (tinha uma ideia, mas não consegui desenvolvê-la). No final, quase acabando o tempo, li a F e achei que daria para fazê-la se tivesse lido antes.
+
+Ainda tenho que upsolvar esse contest.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round937).
