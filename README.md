@@ -75,3 +75,25 @@ Fiz o contest [Codeforces Round 970 (Div. 3)](https://codeforces.com/contest/200
 Upsolvei a E (achei o erro) e a F (fiquei triste porque ela era fácil, se eu tivesse lido antes, teria conseguido fazer ao vivo).
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round970).
+
+## 03/SET - 3h (2h + 1h upsolving)
+Fiz o contest [Codeforces Round 971 (Div. 4)](https://codeforces.com/contest/2009) ao vivo. Consegui passar até a E. Dessa vez, apliquei o que eu percebi das últimas vezes de ler a próxima questão caso ficasse travado em alguma (não estava entendendo a saída da C). Além disso, comecei a também escrever códigos em Python para questões que só envolvem contas (comecei isso na questão F do último contest). Embora o CF estivesse travando muito nesse dia, acredito que se não tivesse, do mesmo jeito eu não teria conseguido.
+
+Upsolvei a F sem ler o editorial (eu tive a ideia, mas me perdi muito com os índices). Quero ler depois, para ver se tem um jeito mais fácil.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round971).
+
+## 07/SET - 2h
+Fiz o contest [AtCoder Beginner Contest 370](https://atcoder.jp/contests/abc370/) ao vivo. Consegui passar até a C. Fiquei travado na D, inicialmente pensei em um guloso + algo parecido com soma acumulada, mas não deu certo. Só no final percebi que usar map para queries dava conta da complexidade. Passei a D só depois de acabar o contest :(
+
+Ainda tenho que upsolvar essa contest.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner370).
+
+## Total horas
+- Contest: 27h.
+- Upsolving: 7h.
+
+## Perfis
+- Codeforces: [vinilira](https://codeforces.com/profile/vinilira).
+- AtCoders: [vinilira](https://atcoder.jp/users/vinilira).
