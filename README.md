@@ -90,7 +90,7 @@ Ainda tenho que upsolvar essa contest.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner370).
 
-## Total horas
+## Total horas = 34h
 - Contest: 27h.
 - Upsolving: 7h.
 
