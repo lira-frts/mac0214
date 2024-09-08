@@ -81,7 +81,7 @@ Upsolvei a F sem ler o editorial (eu tive a ideia, mas me perdi muito com os ín
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round971).
 
-## 07/SET - 3h [2h + 1h upsolving)
+## 07/SET - 3h (2h + 1h upsolving)
 Fiz o contest [AtCoder Beginner Contest 370](https://atcoder.jp/contests/abc370/) ao vivo. Consegui passar até a C. Fiquei travado na D, inicialmente pensei em um guloso + algo parecido com soma acumulada, mas não deu certo. Só no final percebi que usar map para queries dava conta da complexidade. Passei a D só depois de acabar o contest :(
 
 Upsolvei a E e a F, embora nas duas eu sabia o conteúdo da questão, acredito que não teria a ideia durante o contest. Além disso, tive uma dificuldade em ler/entender o editorial, preciso melhorar isso.
