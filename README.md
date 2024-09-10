@@ -88,8 +88,15 @@ Upsolvei a E e a F, embora nas duas eu sabia o conteúdo da questão, acredito q
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner370).
 
-## Total horas = 35h
-- Contest: 27h.
+## 10/SET - 2h
+Simulei o contest [https://codeforces.com/contest/1996/problem](https://codeforces.com/contest/1996/problem). Consegui fazer a A, B e D. Fiquei travado na C e na E. Assim que li a C, achei que era de segtree e pulei para D, logo após fazer a D, voltei para a C e até codei, mas tomei memory limit no primeiro teste. Então, decidi avançar para a E mas também não consegui passar (acredito ser um problema de contagem). Irei tentar fazer sem ler o editorial.
+
+Ainda tenho que upsolvar esse contest.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round962)
+
+## Total horas = 37h
+- Contest: 29h.
 - Upsolving: 8h.
 
 ## Perfis
