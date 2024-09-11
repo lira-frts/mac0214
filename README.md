@@ -88,16 +88,18 @@ Upsolvei a E e a F, embora nas duas eu sabia o conteúdo da questão, acredito q
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner370).
 
-## 10/SET - 2h
+## 10/SET - 3h (2h + 1h upsolving)
 Simulei o contest [Codeforces Round 962 (Div. 3)](https://codeforces.com/contest/1996). Consegui fazer a A, B e D. Fiquei travado na C e na E. Assim que li a C, achei que era de segtree e pulei para D, logo após fazer a D, voltei para a C e até codei, mas tomei memory limit no primeiro teste. Então, decidi avançar para a E, mas também não consegui passar (acredito ser um problema de contagem). Irei tentar fazer sem ler o editorial.
 
-Ainda tenho que upsolvar esse contest.
+Passei a C usando segtree (bastou trocar long long por int). Além disso, meu amigo Otávio disse que dava para fazer somente com soma acumulada, então vi que era verdade e codei (c2.ccp). Passei a E lendo o editorial, a solução não foi algo que se tinha passado pela minha cabeça (pensei que era algo somente de contagem, mas tinha algo a mais). Passei a F lendo o editorial, não tinha pensando em busca binária, foi algo interessante e preciso rever o código para digerir melhor.
+
+Ainda quero upsolvar a G.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round962)
 
-## Total horas = 37h
+## Total horas = 38h
 - Contest: 29h.
-- Upsolving: 8h.
+- Upsolving: 9h.
 
 ## Perfis
 - Codeforces: [vinilira](https://codeforces.com/profile/vinilira).
