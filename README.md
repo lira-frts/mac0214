@@ -91,14 +91,21 @@ Upsolvei a E e a F, embora nas duas eu sabia o conteúdo da questão, acredito q
 ## 10/SET - 3h (2h + 1h upsolving)
 Simulei o contest [Codeforces Round 962 (Div. 3)](https://codeforces.com/contest/1996). Consegui fazer a A, B e D. Fiquei travado na C e na E. Assim que li a C, achei que era de segtree e pulei para D, logo após fazer a D, voltei para a C e até codei, mas tomei memory limit no primeiro teste. Então, decidi avançar para a E, mas também não consegui passar (acredito ser um problema de contagem). Irei tentar fazer sem ler o editorial.
 
-Passei a C usando segtree (bastou trocar long long por int). Além disso, meu amigo Otávio disse que dava para fazer somente com soma acumulada, então vi que era verdade e codei (c2.ccp). Passei a E lendo o editorial, a solução não foi algo que se tinha passado pela minha cabeça (pensei que era algo somente de contagem, mas tinha algo a mais). Passei a F lendo o editorial, não tinha pensando em busca binária, foi algo interessante e preciso rever o código para digerir melhor.
-
-Ainda quero upsolvar a G.
+Passei a C usando segtree (c1.cpp) (bastou trocar long long por int). Além disso, meu amigo Otávio disse que dava para fazer somente com soma acumulada, então vi que era verdade e codei (c2.ccp). Passei a E lendo o editorial, a solução não foi algo que se tinha passado pela minha cabeça (pensei que era algo somente de contagem, mas tinha algo a mais). Passei a F lendo o editorial, não tinha pensando em busca binária, foi algo interessante e preciso rever o código para digerir melhor. Passei a G lendo o editorial, foi a minha primeira vez codando uma segtree com lazy propagation :), novamente preciso rever o código para digerir melhor.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round962)
 
-## Total horas = 38h
-- Contest: 29h.
+## 12/SET - 4h
+Simulei o contest [ArabellaCPC 2019](https://codeforces.com/gym/102263) em grupo com meus amigos Fernando Lima e Octavio Carneiro. Conseguimos fazer as questões A, B, C, G, H, I e M. Eu e o Octavio ficamos travados na D (embora eu soubesse o Lema de Bezout, não tive uma ideia de como aplicar corretamente), enquanto o Fernando ficou travado na J. 
+
+Logo após o contest, meu amigo Rafael Sesoko deu a ideia da D, então já a upsolvei.
+
+Ainda quero upsolvar mais questões.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/ArabellaCPC-2019)
+
+## Total horas = 42h
+- Contest: 33h.
 - Upsolving: 9h.
 
 ## Perfis
