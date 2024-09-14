@@ -96,16 +96,29 @@ Passei a C usando segtree (c1.cpp) (bastou trocar long long por int). Além diss
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round962)
 
 ## 12/SET - 4h
-Simulei o contest [ArabellaCPC 2019](https://codeforces.com/gym/102263) em grupo com meus amigos Fernando Lima e Octavio Carneiro. Conseguimos fazer as questões A, B, C, G, H, I e M. Eu e o Octavio ficamos travados na D (embora eu soubesse o Lema de Bezout, não tive uma ideia de como aplicar corretamente), enquanto o Fernando ficou travado na J. 
+Simulei o contest [ArabellaCPC 2019](https://codeforces.com/gym/102263) em grupo com meus amigos Fernando Lima e Octavio Carneiro. Conseguimos fazer as questões A, B, C, G, H, I e M. Eu e o Octavio ficamos travados na D (embora eu soubesse o Lema de Bezout, não tive uma ideia de como aplicar corretamente), enquanto o Fernando ficou travado na J (acredito que ele estava tentando fazer algo mais algorítmico, e talvez a solução esperada talvez fosse pd (?)). 
 
-Logo após o contest, meu amigo Rafael Sesoko deu a ideia da D, então já a upsolvei.
+Logo após o contest, meu amigo Rafael Sesoko deu a ideia da D, então já a upsolvei. Além disso, o meu Pedro Simões deu uma dica da J ser sobre PD, então também já a upsolvei.
 
 Ainda quero upsolvar mais questões.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/ArabellaCPC-2019)
 
-## Total horas = 42h
-- Contest: 33h.
+## 14/SET - 4h
+Fiz o contest [AtCoder Beginner Contest 371](https://atcoder.jp/contests/abc371/) ao vivo. Consegui passar até a C. Fiquei travado na C por um erro besta (as operações eram feitas sobre o grafo H e não sobre o grafo G). Cheguei a começar a codar a D com a ideia certa mas só terminei depois de acabar o contest :(
+
+Ainda quero upsolvar esse contest.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner371).
+
+Além disso, nesse mesmo dia também fiz o contest [Codeforces Round 972 (Div. 2)](https://codeforces.com/contest/2005) ao vivo. Só consegui passar a A e as B's. Fiquei travado na C, consegui perceber que era sobre PD mas acho que compliquei demais. 
+
+Ainda quero upsolvar esse contest.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div2-round972).
+
+## Total horas = 46h
+- Contest: 37h.
 - Upsolving: 9h.
 
 ## Perfis
