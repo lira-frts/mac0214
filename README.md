@@ -8,7 +8,7 @@ Upsolvei a F (em c++ mesmo) e as G's.
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round964).
 
 ## 08/AGO - 2h
-Simulei o contest [Codeforces Round 957 (Div. 3)](https://codeforces.com/contest/1992) em grupo com meus amigos (Octavio Carneiro e Fernando Lima). Porém, como foi nossa primeira vez tentando simular um contest em grupo houve alguns erros em relação à simulação:
+Simulei o contest [Codeforces Round 957 (Div. 3)](https://codeforces.com/contest/1992) em grupo com meus amigos ([Octavio Carneiro](https://codeforces.com/profile/Carneiro) e [Fernando Lima](https://codeforces.com/profile/FerLima)). Porém, como foi nossa primeira vez tentando simular um contest em grupo houve alguns erros em relação à simulação:
 
 1. Não sabíamos que existiam contests maiores para a simulação (por isso, acabamos simulando só um div3);
 2. Não sabíamos que existe uma opção no CF para simular (por isso, só usamos um cronômetro mesmo).
@@ -19,7 +19,7 @@ Porém, apesar desses erros, valeu a experiência de codar em grupo :)
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round957).
 
 ## 10/AGO - 5h
-Fiz a prova da [seletiva USP](https://codeforces.com/gym/105297) em grupo com meus amigos (Fernando Lima e Felipe Anibal). Embora só tenhamos conseguido fazer a I e a J, tivemos ideias para a A e a G. Com essa prova, percebi que ainda há muito conteúdo para estudar.
+Fiz a prova da [seletiva USP](https://codeforces.com/gym/105297) em grupo com meus amigos ([Fernando Lima](https://codeforces.com/profile/FerLima) e [Felipe Anibal](https://codeforces.com/profile/felipeanibal)). Embora só tenhamos conseguido fazer a I e a J, tivemos ideias para a A e a G. Com essa prova, percebi que ainda há muito conteúdo para estudar.
 
 Quero tentar upsolvar essa prova.
 
@@ -91,14 +91,14 @@ Upsolvei a E e a F, embora nas duas eu sabia o conteúdo da questão, acredito q
 ## 10/SET - 3h (2h + 1h upsolving)
 Simulei o contest [Codeforces Round 962 (Div. 3)](https://codeforces.com/contest/1996). Consegui fazer a A, B e D. Fiquei travado na C e na E. Assim que li a C, achei que era de segtree e pulei para D, logo após fazer a D, voltei para a C e até codei, mas tomei memory limit no primeiro teste. Então, decidi avançar para a E, mas também não consegui passar (acredito ser um problema de contagem). Irei tentar fazer sem ler o editorial.
 
-Passei a C usando segtree (c1.cpp) (bastou trocar long long por int). Além disso, meu amigo Otávio disse que dava para fazer somente com soma acumulada, então vi que era verdade e codei (c2.ccp). Passei a E lendo o editorial, a solução não foi algo que se tinha passado pela minha cabeça (pensei que era algo somente de contagem, mas tinha algo a mais). Passei a F lendo o editorial, não tinha pensando em busca binária, foi algo interessante e preciso rever o código para digerir melhor. Passei a G lendo o editorial, foi a minha primeira vez codando uma segtree com lazy propagation :), novamente preciso rever o código para digerir melhor.
+Passei a C usando segtree (c1.cpp) (bastou trocar long long por int). Além disso, meu amigo [Otávio de Oliveira](https://codeforces.com/profile/otavio.ols) disse que dava para fazer somente com soma acumulada, então vi que era verdade e codei (c2.ccp). Passei a E lendo o editorial, a solução não foi algo que se tinha passado pela minha cabeça (pensei que era algo somente de contagem, mas tinha algo a mais). Passei a F lendo o editorial, não tinha pensando em busca binária, foi algo interessante e preciso rever o código para digerir melhor. Passei a G lendo o editorial, foi a minha primeira vez codando uma segtree com lazy propagation :), novamente preciso rever o código para digerir melhor.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round962)
 
 ## 12/SET - 4h
-Simulei o contest [ArabellaCPC 2019](https://codeforces.com/gym/102263) em grupo com meus amigos Fernando Lima e Octavio Carneiro. Conseguimos fazer as questões A, B, C, G, H, I e M. Eu e o Octavio ficamos travados na D (embora eu soubesse o Lema de Bezout, não tive uma ideia de como aplicar corretamente), enquanto o Fernando ficou travado na J (acredito que ele estava tentando fazer algo mais algorítmico, e talvez a solução esperada talvez fosse pd (?)). 
+Simulei o contest [ArabellaCPC 2019](https://codeforces.com/gym/102263) em grupo com meus amigos [Fernando Lima](https://codeforces.com/profile/FerLima) e [Octavio Carneiro](https://codeforces.com/profile/Carneiro). Conseguimos fazer as questões A, B, C, G, H, I e M. Eu e o Octavio ficamos travados na D (embora eu soubesse o Lema de Bezout, não tive uma ideia de como aplicar corretamente), enquanto o Fernando ficou travado na J (acredito que ele estava tentando fazer algo mais algorítmico e talvez a solução esperada talvez fosse PD(?)). 
 
-Logo após o contest, meu amigo Rafael Sesoko deu a ideia da D, então já a upsolvei. Além disso, o meu Pedro Simões deu uma dica da J ser sobre PD, então também já a upsolvei.
+Logo após o contest, meu amigo [Rafael Sesoko](https://codeforces.com/profile/rkaiki) deu a ideia da D, então já a upsolvei. Além disso, o meu [Pedro Simões](https://codeforces.com/profile/p5imoes) deu uma dica da J ser sobre PD, então também já a upsolvei.
 
 Ainda quero upsolvar mais questões.
 
