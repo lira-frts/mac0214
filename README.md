@@ -49,7 +49,7 @@ Nesse contest, virei verde no CF :)
 ## 22/AGO - 3h (2h + 1h upsolving)
 Simulei o contest [Codeforces Round 937 (Div. 4)](https://codeforces.com/contest/1950). Consegui passar até a D. Fiquei travado na E (tinha uma ideia, mas não consegui desenvolvê-la). No final, quase acabando o tempo, li a F e achei que daria para fazê-la se tivesse lido antes.
 
-Upsolvei a E (codei a ideia que eu tive) e a F (sem ler o editorial).
+Upsolvei a E (codei a ideia que eu tive), a F (sem ler o editorial) e a G (lendo o editorial e revisando bitmask).
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round937).
 
