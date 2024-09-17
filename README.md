@@ -46,10 +46,10 @@ Nesse contest, virei verde no CF :)
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div2-round967).
 
-## 22/AGO - 2h
+## 22/AGO - 3h (2h + 1h upsolving)
 Simulei o contest [Codeforces Round 937 (Div. 4)](https://codeforces.com/contest/1950). Consegui passar até a D. Fiquei travado na E (tinha uma ideia, mas não consegui desenvolvê-la). No final, quase acabando o tempo, li a F e achei que daria para fazê-la se tivesse lido antes.
 
-Ainda tenho que upsolvar esse contest.
+Upsolvei a E (codei a ideia que eu tive) e a F (sem ler o editorial).
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round937).
 
@@ -104,10 +104,10 @@ Ainda quero upsolvar mais questões.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/ArabellaCPC-2019)
 
-## 14/SET - 4h
+## 14/SET - 5h (4h + 1h upsolving)
 Fiz o contest [AtCoder Beginner Contest 371](https://atcoder.jp/contests/abc371/) ao vivo. Consegui passar até a C. Fiquei travado na C por um erro besta (as operações eram feitas sobre o grafo H e não sobre o grafo G). Cheguei a começar a codar a D com a ideia certa mas só terminei depois de acabar o contest :(
 
-Ainda quero upsolvar esse contest.
+Upsolvei a E (era uma ideia de contagem, talvez eu conseguiria ter a ideia durante o contest) e a F (chutei corretamente que precisaria de segtree com lazy propagation, mas precisei ler o editorial).
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner371).
 
@@ -117,9 +117,9 @@ Ainda quero upsolvar esse contest.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div2-round972).
 
-## Total horas = 46h
+## Total horas = 48h
 - Contest: 37h.
-- Upsolving: 9h.
+- Upsolving: 11h.
 
 ## Perfis
 - Codeforces: [vinilira](https://codeforces.com/profile/vinilira).
