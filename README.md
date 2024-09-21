@@ -98,7 +98,7 @@ Passei a C usando segtree (c1.cpp) (bastou trocar long long por int). Além diss
 ## 12/SET - 4h
 Simulei o contest [ArabellaCPC 2019](https://codeforces.com/gym/102263) em grupo com meus amigos [Fernando Lima](https://codeforces.com/profile/FerLima) e [Octavio Carneiro](https://codeforces.com/profile/Carneiro). Conseguimos fazer as questões A, B, C, G, H, I e M. Eu e o Octavio ficamos travados na D (embora eu soubesse o Lema de Bezout, não tive uma ideia de como aplicar corretamente), enquanto o Fernando ficou travado na J (acredito que ele estava tentando fazer algo mais algorítmico e talvez a solução esperada talvez fosse PD(?)). 
 
-Logo após o contest, meu amigo [Rafael Sesoko](https://codeforces.com/profile/rkaiki) deu a ideia da D, então já a upsolvei. Além disso, o meu [Pedro Simões](https://codeforces.com/profile/p5imoes) deu uma dica da J ser sobre PD, então também já a upsolvei.
+Logo após o contest, meu amigo [Rafael Sesoko](https://codeforces.com/profile/rkaiki) deu a ideia da D, então já a upsolvei. Além disso, o meu amigo [Pedro Simões](https://codeforces.com/profile/p5imoes) deu uma dica da J ser sobre PD, então também já a upsolvei.
 
 Ainda quero upsolvar mais questões.
 
@@ -117,9 +117,51 @@ Ainda quero upsolvar esse contest.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div2-round972).
 
-## Total horas = 48h
-- Contest: 37h.
-- Upsolving: 11h.
+## 17/SET - 2h
+Simulei o contest [Codeforces Round 834 (Div. 3)](https://codeforces.com/contest/1759). Só consegui passar a A e a B. Não consegui pensar na C, então fui para D. Para a D, até cheguei a ter uma ideia. Mas não consegui codar a tempo.
+
+Upsolvei a D (terminei minha ideia e deu certo, mas também li o editorial e melhorei o código), a C (conversando com meu amigo [Octavio Carneiro](https://codeforces.com/profile/Carneiro) tivemos a ideia certa) e a E (lendo o editorial).
+
+Ainda quero upsolvar mais questões.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round834).
+
+## 18/SET - 3h (2h + 1h upsolving)
+Simulei o contest [Codeforces Round 944 (Div. 4)](https://codeforces.com/contest/1971). Passei até a F, tirando a E. Acredito que meu problema em relação a E foi a questão de tentar usar ponto flutuante onde não precisava.
+
+Upsolvei a E (bastou não usar ponto flutuante e dar prioridade para as multiplicações em relação às divisões), a G (achei engraçado pois a ideia veio rápido e foi fácil de escrever o código, talvez se eu não tivesse voltado para a questão E durante a simulação, deveria ter passado a G) e a H (achei engraçado que durante a minha lida no enunciado, a ideia de usar 2-SAT se passou pela minha cabeça, porém, como só tinha ouvido falar mas não nunca tinha usado, pensei que devia ser outra coisa, mas ao ler o editorial, vi que era 2-SAT mesmo).
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round944).
+
+## 19/SET - 2h
+Simulei o contest [Codeforces Round 943 (Div. 3)](https://codeforces.com/contest/1968). Consegui passar até a C. Gastei bastante tempo na C, e ainda assim, meu código ficou complicado demais (após ler o editorial, o alterei para a solução esperada). Cheguei a ler a D, ter uma ideia (usando Binary Jumping) e começei a codar. Porém não terminei.
+
+Upsolvei a D (conversando com meu amigo [Octavio Carneiro](https://codeforces.com/profile/Carneiro), ele explicou a ideia dele de tentar formular com grafos, achei mais fácil do que com Binary Jumping, então usei grafos mesmo).
+
+Ainda quero upsolvar mais questões.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round943).
+
+## 21/SET - 4h
+Fiz o contest [AtCoder Beginner Contest 372](https://atcoder.jp/contests/abc372/) ao vivo. Consegui passar até a C. Fiquei travado na D, não consegui desenvolver uma ideia para resolver.
+
+Upsolvei a D (lendo o editorial).
+
+Ainda quero upsolvar esse contest.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner372).
+
+Além disso, nesse mesmo dia também fiz o contest [Codeforces Round 974 (Div. 3)](https://codeforces.com/contest/2014) ao vivo. Só consegui passar até a C. Fiquei travado na D, acho um dos problemas foi que começei a codar sem entender completamente o enunciado, então houve várias vezes que eu apaguei o meu código.
+
+Upsolvei a D (sem ler o editorial).
+
+Ainda quero upsolvar mais esse contest.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round974).
+
+## Total horas = 59h
+- Contest: 47h.
+- Upsolving: 12h.
 
 ## Perfis
 - Codeforces: [vinilira](https://codeforces.com/profile/vinilira).
