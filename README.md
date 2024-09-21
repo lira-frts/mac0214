@@ -153,7 +153,7 @@ Ainda quero upsolvar esse contest.
 
 Além disso, nesse mesmo dia também fiz o contest [Codeforces Round 974 (Div. 3)](https://codeforces.com/contest/2014) ao vivo. Só consegui passar até a C. Fiquei travado na D, acho um dos problemas foi que começei a codar sem entender completamente o enunciado, então houve várias vezes que eu apaguei o meu código.
 
-Upsolvei a D (sem ler o editorial).
+Upsolvei a D (sem ler o editorial, porém vi mais tarde que tinha um jeito melhor de ter feito, então alterei o meu código).
 
 Ainda quero upsolvar mais esse contest.
 
