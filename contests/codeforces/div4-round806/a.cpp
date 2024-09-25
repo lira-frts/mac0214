@@ -9,13 +9,19 @@ using namespace std;
 using ll = long long;
 
 using vll = vector<ll>;
-using pll = pair<ll, ll>;
+using pl = pair<ll, ll>;
 using lll = tuple<ll, ll, ll>;
-using vpll = vector<pll>;
+using vpl = vector<pl>;
 using vlll = vector<lll>;
-using vvpll = vector<vpll>;
 
 void solve(){
+    string s; cin >> s;
+    bool f0 = 0, f1 = 0, f2 = 0;
+    if(s[0] == 'Y' || s[0] == 'y') f0 = 1;
+    if(s[1] == 'E' || s[1] == 'e') f1 = 1;
+    if(s[2] == 'S' || s[2] == 's') f2 = 1;
+    if(f0 && f1 && f2) cout << "YES\n";
+    else cout << "NO\n";
 }
 
 int main(){
