@@ -159,9 +159,16 @@ Ainda quero upsolvar mais esse contest.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round974).
 
-## Total horas = 59h
-- Contest: 47h.
-- Upsolving: 12h.
+## 24/SET - 3h (2h + 1h upsolving)
+Simulei o contest [Codeforces Round 806 (Div. 4)](https://codeforces.com/contest/1703). Consegui passar até a E. Fiquei travado na F, acredito que meu problema foi querer fazer uma verificação única e não estava dando certo.
+
+Upsolvei a F lendo o editorial (diferente do que eu esperava, a solução apresentada era dividida em duas partes). Upsolvei a G lendo o editorial.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round806).
+
+## Total horas = 62h
+- Contest: 49h.
+- Upsolving: 13h.
 
 ## Perfis
 - Codeforces: [vinilira](https://codeforces.com/profile/vinilira).
