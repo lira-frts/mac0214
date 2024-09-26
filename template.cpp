@@ -10,9 +10,8 @@ using ll = long long;
 
 using vll = vector<ll>;
 using pll = pair<ll, ll>;
-using lll = tuple<ll, ll, ll>;
 using vpll = vector<pll>;
-using vlll = vector<lll>;
+using vvll = vector<vll>;
 using vvpll = vector<vpll>;
 
 void solve(){
