@@ -147,20 +147,20 @@ Fiz o contest [AtCoder Beginner Contest 372](https://atcoder.jp/contests/abc372/
 
 Upsolvei a D (lendo o editorial).
 
+Ainda quero upsolvar mais esse contest.
+
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner372).
 
 Além disso, nesse mesmo dia também fiz o contest [Codeforces Round 974 (Div. 3)](https://codeforces.com/contest/2014) ao vivo. Só consegui passar até a C. Fiquei travado na D, acho um dos problemas foi que começei a codar sem entender completamente o enunciado, então houve várias vezes que eu apaguei o meu código.
 
 Upsolvei a D (sem ler o editorial, porém vi mais tarde que tinha um jeito melhor de ter feito, então alterei o meu código), a E (aproveitei para revisar Dijkstra), a F (achei legal, não me lembro de ter feito uma PD em grafos antes) e a G (codei uma sqrt decomposition pela primeira vez).
 
-Ainda quero upsolvar mais esse contest.
-
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round974).
 
 ## 24/SET - 3h (2h + 1h upsolving)
 Simulei o contest [Codeforces Round 806 (Div. 4)](https://codeforces.com/contest/1703). Consegui passar até a E. Fiquei travado na F, acredito que meu problema foi querer fazer uma verificação única e não estava dando certo.
 
-Upsolvei a F lendo o editorial (diferente do que eu esperava, a solução apresentada era dividida em duas partes). Upsolvei a G lendo o editorial.
+Upsolvei a F (lendo o editorial, era diferente do que eu esperava, a solução apresentada era dividida em duas partes), a G.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round806).
 
