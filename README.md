@@ -147,8 +147,6 @@ Fiz o contest [AtCoder Beginner Contest 372](https://atcoder.jp/contests/abc372/
 
 Upsolvei a D (lendo o editorial).
 
-Ainda quero upsolvar esse contest.
-
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner372).
 
 Além disso, nesse mesmo dia também fiz o contest [Codeforces Round 974 (Div. 3)](https://codeforces.com/contest/2014) ao vivo. Só consegui passar até a C. Fiquei travado na D, acho um dos problemas foi que começei a codar sem entender completamente o enunciado, então houve várias vezes que eu apaguei o meu código.
