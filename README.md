@@ -142,7 +142,7 @@ Ainda quero upsolvar mais questões.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round943).
 
-## 21/SET - 4h
+## 21/SET - 5h (4h + 1h upsolving)
 Fiz o contest [AtCoder Beginner Contest 372](https://atcoder.jp/contests/abc372/) ao vivo. Consegui passar até a C. Fiquei travado na D, não consegui desenvolver uma ideia para resolver.
 
 Upsolvei a D (lendo o editorial).
@@ -153,7 +153,7 @@ Ainda quero upsolvar esse contest.
 
 Além disso, nesse mesmo dia também fiz o contest [Codeforces Round 974 (Div. 3)](https://codeforces.com/contest/2014) ao vivo. Só consegui passar até a C. Fiquei travado na D, acho um dos problemas foi que começei a codar sem entender completamente o enunciado, então houve várias vezes que eu apaguei o meu código.
 
-Upsolvei a D (sem ler o editorial, porém vi mais tarde que tinha um jeito melhor de ter feito, então alterei o meu código).
+Upsolvei a D (sem ler o editorial, porém vi mais tarde que tinha um jeito melhor de ter feito, então alterei o meu código), a E (aproveitei para revisar Dijkstra), a F (achei legal, não me lembro de ter feito uma PD em grafos antes) e a G (codei uma sqrt decomposition pela primeira vez).
 
 Ainda quero upsolvar mais esse contest.
 
@@ -166,9 +166,9 @@ Upsolvei a F lendo o editorial (diferente do que eu esperava, a solução aprese
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round806).
 
-## Total horas = 62h
+## Total horas = 63h
 - Contest: 49h.
-- Upsolving: 13h.
+- Upsolving: 14h.
 
 ## Perfis
 - Codeforces: [vinilira](https://codeforces.com/profile/vinilira).
