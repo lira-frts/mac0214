@@ -164,8 +164,15 @@ Upsolvei a F (lendo o editorial, era diferente do que eu esperava, a solução a
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round806).
 
-## Total horas = 63h
-- Contest: 49h.
+## 26/SET - 2h
+Simulei o contest [Coderforces Round 881 (Div. 3)](https://codeforces.com/contest/1843). Consegui passar até a D. Para a E, tive uma ideia e até tinha escrito um código, porém, acredito que devido ao calor extremo do dia, estava cansando demais para procurar o erro do código.
+
+Upsolvei a E (sem ler o editorial e terminando o código que já havia começado).
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round881)
+
+## Total horas = 65h
+- Contest: 51h.
 - Upsolving: 14h.
 
 ## Perfis
