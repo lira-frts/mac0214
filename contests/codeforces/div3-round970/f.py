@@ -3,7 +3,7 @@ t = int(input())
 for i in range(t):
     n = int(input())
     soma = 0
-    v = list(map(int,input().split()))
+    v = list(map(int, input().split()))
     for x in v:
         soma += x
     soma = soma ** 2

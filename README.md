@@ -134,9 +134,9 @@ Upsolvei a E (bastou não usar ponto flutuante e dar prioridade para as multipli
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round944).
 
 ## 19/SET - 2h
-Simulei o contest [Codeforces Round 943 (Div. 3)](https://codeforces.com/contest/1968). Consegui passar até a C. Gastei bastante tempo na C, e ainda assim, meu código ficou complicado demais (após ler o editorial, o alterei para a solução esperada). Cheguei a ler a D, ter uma ideia (usando Binary Jumping) e começei a codar. Porém não terminei.
+Simulei o contest [Codeforces Round 943 (Div. 3)](https://codeforces.com/contest/1968). Consegui passar até a C. Gastei bastante tempo na C, e ainda assim, meu código ficou complicado demais (após ler o editorial, o alterei para a solução esperada). Cheguei a ler a D, ter uma ideia (usando Binary Lifting) e começei a codar. Porém não terminei.
 
-Upsolvei a D (conversando com meu amigo [Octavio Carneiro](https://codeforces.com/profile/Carneiro), ele explicou a ideia dele de tentar formular com grafos, achei mais fácil do que com Binary Jumping, então usei grafos mesmo).
+Upsolvei a D (conversando com meu amigo [Octavio Carneiro](https://codeforces.com/profile/Carneiro), ele explicou a ideia dele de tentar formular com grafos, achei mais fácil do que com Binary Lifting, então usei grafos mesmo).
 
 Ainda quero upsolvar mais questões.
 
@@ -160,20 +160,27 @@ Upsolvei a D (sem ler o editorial, porém vi mais tarde que tinha um jeito melho
 ## 24/SET - 3h (2h + 1h upsolving)
 Simulei o contest [Codeforces Round 806 (Div. 4)](https://codeforces.com/contest/1703). Consegui passar até a E. Fiquei travado na F, acredito que meu problema foi querer fazer uma verificação única e não estava dando certo.
 
-Upsolvei a F (lendo o editorial, era diferente do que eu esperava, a solução apresentada era dividida em duas partes), a G.
+Upsolvei a F (lendo o editorial, era diferente do que eu esperava, a solução apresentada era dividida em duas partes) e a G.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round806).
 
-## 26/SET - 2h
+## 26/SET - 3h (2h + 1h upsolving)
 Simulei o contest [Coderforces Round 881 (Div. 3)](https://codeforces.com/contest/1843). Consegui passar até a D. Para a E, tive uma ideia e até tinha escrito um código, porém, acredito que devido ao calor extremo do dia, estava cansando demais para procurar o erro do código.
 
-Upsolvei a E (sem ler o editorial e terminando o código que já havia começado).
+Upsolvei a E (sem ler o editorial e terminando o código que já havia começado) e as F's (lendo o editorial e revisando binary lifting).
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round881)
 
-## Total horas = 65h
-- Contest: 51h.
-- Upsolving: 14h.
+## 28/SET - 2h
+Fiz o contest [AtCoder Beginner Contest 373](https://atcoder.jp/contests/abc373/) ao vivo. Consegui passar até a C. Fiquei travado na D, depois de um tempo pensando fui para a E, até cheguei a ter uma ideia e começei a desenvolver um código, porém não terminei.
+
+Ainda quero upsolvar mais esse contest.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner373).
+
+## Total horas = 68h
+- Contest: 53h.
+- Upsolving: 15h.
 
 ## Perfis
 - Codeforces: [vinilira](https://codeforces.com/profile/vinilira).
