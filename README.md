@@ -178,9 +178,16 @@ Ainda quero upsolvar mais esse contest.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner373).
 
-## Total horas = 68h
-- Contest: 53h.
-- Upsolving: 15h.
+## 01/OUT - 3h (2h + 1h upsolving)
+Simulei o contest [Codeforces Round 835 (Div. 4)](https://codeforces.com/contest/1760/). Passei até a C tranquilamente. Fiquei travado na D, então pulei para a E mas também fiquei travado nela. Depois de muito tempo, consegui passar as duas. No fim, resolvi pular a F (percebi que era de busca binária) e fui para a G (que era de dfs), até cheguei a codar e mandar, porém estava errado e não achei o meu erro.
+
+ Upsolvei a F (de fato, era busca binária) e a G (a minha ideia inicial estava certa, só não me atentei ao detalhe que uma dfs não devia passar pelo vértice b) sem ler o editorial.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round835)
+
+## Total horas = 71h
+- Contest: 55h.
+- Upsolving: 16h.
 
 ## Perfis
 - Codeforces: [vinilira](https://codeforces.com/profile/vinilira).

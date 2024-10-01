@@ -18,6 +18,14 @@ using vvpll = vector<vpll>;
 #define all(x) x.begin(),x.end()
 
 void solve(){
+    ll n; cin >> n;
+    vpll v(n);
+    for(ll i = 0; i < n; i++) cin >> v[i].first, v[i].second = i;
+    sort(v.begin(), v.end());
+    vll resp(n);
+    for(ll i = 0; i < n-1; i++) resp[v[i].second] = v[i].first - v[n-1].first;
+    resp[v[n-1].second] = v[n-1].first - v[n-2].first;
+    for(ll i = 0; i < n; i++) cout << resp[i] << ' '; cout << '\n';
 }
 
 int main(){
