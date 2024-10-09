@@ -45,27 +45,23 @@ void solve(){
             ll falta = meio - val;
             bool flag = 1;
 
-            auto lower = upper_bound(v.begin(), v.end(), (pll) {meio, -1});
+            ll pos = --lower_bound(v.begin(), v.end(), (pll) {meio+1, 0}) - v.begin();
 
-            // caso em que só precisa dar pros m últimos
-            if(i <= n - 1 - m){
-                if(--lower - v.begin() >= n-m+1){
-                    ll ultimo = --lower - v.begin();
-                    ll outros = m * (meio + 1) - (acc[ultimo] - acc[n-m]);
-                    if(outros <= 0 || falta + outros <= k - soma) flag = 0;
-                }
-                else flag = 0;
+            // é tudo mundo maior
+            if(pos < n-m) flag = 0;
+
+            // não é todo mundo maior e o cara atual tá antes
+            else if(i < n-m){
+                ll outros = (meio+1) * (pos - (n - m - 1)) - (acc[pos+1] - acc[n-m]);
+                if(falta + outros <= k - soma) flag = 0;
             }
 
-            // caso em que o cara atual tá no "meio"
+            // não é todo mundo maior e o cara atual tá no meio
             else{
-                if(--lower - v.begin() >= n-m){
-                    ll ultimo = --lower - v.begin();
-                    ll outros = m * (meio + 1) - (acc[ultimo] - acc[n-m-1] - val);
-                    if(outros <= 0 || falta + outros <= k - soma) flag = 0;
-                }
-                else flag = 0;
+                ll outros = (meio+1) * (pos - (n - m - 1)) - (acc[pos+1] - acc[n-m-1] - val);
+                if(falta + outros <= k - soma) flag = 0;
             }
+
             if(flag) fim = meio - 1;
             else inicio = meio + 1;
         }

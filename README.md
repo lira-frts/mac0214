@@ -1,4 +1,4 @@
-# MAC0214 - Registro de Atividades
+MAC0214 - Registro de Atividades
 
 ## 06/AGO - 3h (2h + 1h upsolving)
 Fiz o contest [Codeforces Round 964 (Div. 4)](https://codeforces.com/contest/1999) ao vivo. Foi minha segunda vez fazendo um contest (a outra única vez que eu tinha feito, foi um Beginner do AtCoder). Para uma segunda vez, gostei do resultado inicial, consegui passar até a E e cheguei a ter uma ideia correta para F porém não tive tempo de codar. Nessa questão F, também aprendi que, dependendo da questão, escrever um código em Python é mais fácil.
@@ -142,12 +142,10 @@ Ainda quero upsolvar mais questões.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round943).
 
-## 21/SET - 5h (4h + 1h upsolving)
+## 21/SET - 5h (4h + 2h upsolving)
 Fiz o contest [AtCoder Beginner Contest 372](https://atcoder.jp/contests/abc372/) ao vivo. Consegui passar até a C. Fiquei travado na D, não consegui desenvolver uma ideia para resolver.
 
-Upsolvei a D (lendo o editorial).
-
-Ainda quero upsolvar mais esse contest.
+Upsolvei a D (lendo o editorial), a E (aproveitei para revisar dsu) e a F (chutei que era PD mas precisei ler o editorial para descobrir a transição).
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner372).
 
@@ -171,23 +169,30 @@ Upsolvei a E (sem ler o editorial e terminando o código que já havia começado
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round881)
 
-## 28/SET - 2h
+## 28/SET - 3h (2h + 1h upsolving)
 Fiz o contest [AtCoder Beginner Contest 373](https://atcoder.jp/contests/abc373/) ao vivo. Consegui passar até a C. Fiquei travado na D, depois de um tempo pensando fui para a E, até cheguei a ter uma ideia e começei a desenvolver um código, porém não terminei.
 
-Ainda quero upsolvar mais esse contest.
+Upsolvei a D (não tive a ideia durante o contest de dar peso -w no sentido contrário da aresta), a E (minha ideia durante o contest estava errada, estava pensando só em duas pessoas, mas era necessário pensar nas m+1 e usar busca binária) e a F (chutei que era PD mas precisei ler o editorial para ter a ideia da transição).
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner373).
 
 ## 01/OUT - 3h (2h + 1h upsolving)
 Simulei o contest [Codeforces Round 835 (Div. 4)](https://codeforces.com/contest/1760/). Passei até a C tranquilamente. Fiquei travado na D, então pulei para a E mas também fiquei travado nela. Depois de muito tempo, consegui passar as duas. No fim, resolvi pular a F (percebi que era de busca binária) e fui para a G (que era de dfs), até cheguei a codar e mandar, porém estava errado e não achei o meu erro.
 
- Upsolvei a F (de fato, era busca binária) e a G (a minha ideia inicial estava certa, só não me atentei ao detalhe que uma dfs não devia passar pelo vértice b) sem ler o editorial.
+Upsolvei a F (de fato, era busca binária) e a G (a minha ideia inicial estava certa, só não me atentei ao detalhe que uma dfs não devia passar pelo vértice b) sem ler o editorial.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round835)
 
-## Total horas = 71h
-- Contest: 55h.
-- Upsolving: 16h.
+## 05/OUT - 2h
+Fiz o contest [AtCoder Beginner Contest 374](https://atcoder.jp/contests/abc374/) ao vivo. Consegui passar até a D. Cheguei a codar a E mas somente parte da ideia (busca binária) estava certa.
+
+Upsolvei a E (lendo o editorial e vendo o que faltava na minha ideia). 
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner374).
+
+## Total horas = 75h
+- Contest: 57h.
+- Upsolving: 18h.
 
 ## Perfis
 - Codeforces: [vinilira](https://codeforces.com/profile/vinilira).

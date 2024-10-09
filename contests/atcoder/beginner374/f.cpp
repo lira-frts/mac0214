@@ -14,6 +14,9 @@ using vpll = vector<pll>;
 using vvll = vector<vll>;
 using vvpll = vector<vpll>;
 
+#define pb push_back
+#define all(x) x.begin(),x.end()
+
 void solve(){
 }
 
@@ -21,7 +24,7 @@ int main(){
     ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
 
     ll t = 1;
-    cin >> t;
+    //cin >> t;
     
     while(t--) solve();
 }
