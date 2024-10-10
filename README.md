@@ -190,9 +190,16 @@ Upsolvei a E (lendo o editorial e vendo o que faltava na minha ideia).
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner374).
 
-## Total horas = 75h
-- Contest: 57h.
-- Upsolving: 18h.
+## 09/OUT - 3h (2h + 1h upsolving)
+Simulei o contest [Codeforces Round 886 (Div. 4)](https://codeforces.com/contest/1850/). Passei até a F tranquilamente (fiquei feliz em relação ao tempo, tinha passado até a F nos primeiros 40min). Fiquei travado na G, chegando a submeter um código (errado) só no final.
+
+Upsolvei a G (lendo o editorial, embora eu ache que a minha ideia original estava certa, acho que compliquei demais) e a H (sem ler o editorial, a ideia parecia muito com um problema recente que eu fiz do atcoder, então o código foi basicamente uma cópia).
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round886)
+
+## Total horas = 78h
+- Contest: 59h.
+- Upsolving: 19h.
 
 ## Perfis
 - Codeforces: [vinilira](https://codeforces.com/profile/vinilira).
