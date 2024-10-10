@@ -20,16 +20,13 @@ using vvpll = vector<vpll>;
 void solve(){
     ll n; cin >> n;
     map<ll, ll> mp;
-    set<ll> st;
     for(ll i = 0; i < n; i++){
         ll x; cin >> x;
-        mp[x]++; st.insert(x);
+        mp[x]++;
     }
     vll v(n+1, 0);
-    while(!st.empty()){
-        ll x = *st.begin(); st.erase(x);
-        for(ll i = x; i <= n; i += x) v[i] += mp[x];
-    }
+    for(auto &[k, val]: mp)
+        for(ll i = k; i <= n; i += k) v[i] += val;
     ll maximo = -1;
     for(ll i = 1; i <= n; i++) maximo = max(maximo, v[i]);
     cout << maximo << '\n';
