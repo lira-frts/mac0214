@@ -95,7 +95,7 @@ Passei a C usando segtree (bastou trocar long long por int). Além disso, meu am
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round962)
 
-## 12/SET - 4h
+## 12/SET - 5h
 Simulei o contest [ArabellaCPC 2019](https://codeforces.com/gym/102263) em grupo com meus amigos [Fernando Lima](https://codeforces.com/profile/FerLima) e [Octavio Carneiro](https://codeforces.com/profile/Carneiro). Conseguimos fazer as questões A, B, C, G, H, I e M. Eu e o Octavio ficamos travados na D (embora eu soubesse o Lema de Bezout, não tive uma ideia de como aplicar corretamente), enquanto o Fernando ficou travado na J (acredito que ele estava tentando fazer algo mais algorítmico e talvez a solução esperada talvez fosse PD(?)). 
 
 Logo após o contest, meu amigo [Rafael Sesoko](https://codeforces.com/profile/rkaiki) deu a ideia da D, então já a upsolvei. Além disso, o meu amigo [Pedro Simões](https://codeforces.com/profile/p5imoes) deu uma dica da J ser sobre PD, então também já a upsolvei.
@@ -197,8 +197,18 @@ Upsolvei a G (lendo o editorial, embora eu ache que a minha ideia original estav
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round886)
 
-## Total horas = 78h
-- Contest: 59h.
+## 10/OUT - 5h
+
+Simulei o contest [GCPC 2023](https://codeforces.com/gym/104466) em grupo com meus amigos [Fernando Lima](https://codeforces.com/profile/FerLima) e [Octavio Carneiro](https://codeforces.com/profile/Carneiro). Conseguimos fazer as questões D, E, G, I e L. Ficamos travados na C (não tínhamos entendido o enunciado direito) e na M (não queríamos fazer só um if com várias condições).
+
+Logo após o contest, meu amigo [Rafael Sesoko](https://codeforces.com/profile/rkaiki) explicou a D, então já a upsolvei. Além disso, o Fernando upsolvou a M lendo o editorial (a ideia esperada tinha passado pela cabeça dele durante o contest, mas acabou não indo para frente). Além disso, também fiz a D usando PD (ideia que eu tive durante o contest mas não tinha dado certo e só depois que eu descobri que era porque os números ficavam muito grandes).
+
+Ainda quero upsolvar mais questões.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/GCPC-2023).
+
+## Total horas = 84h
+- Contest: 65h.
 - Upsolving: 19h.
 
 ## Perfis
