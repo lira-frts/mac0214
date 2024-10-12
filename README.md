@@ -183,10 +183,10 @@ Upsolvei a F (de fato, era busca binária) e a G (a minha ideia inicial estava c
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round835)
 
-## 05/OUT - 2h
+## 05/OUT - 3h (2h + 1h upsolving)
 Fiz o contest [AtCoder Beginner Contest 374](https://atcoder.jp/contests/abc374/) ao vivo. Consegui passar até a D. Cheguei a codar a E mas somente parte da ideia (busca binária) estava certa.
 
-Upsolvei a E (lendo o editorial e vendo o que faltava na minha ideia). 
+Upsolvei a E (lendo o editorial e vendo o que faltava na minha ideia) e a F (tive a ideia de PD mas precisei ler (e sofrer para entender) o editorial). 
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner374).
 
@@ -207,9 +207,9 @@ Ainda quero upsolvar mais questões.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/GCPC-2023).
 
-## Total horas = 84h
+## Total horas = 85h
 - Contest: 65h.
-- Upsolving: 19h.
+- Upsolving: 20h.
 
 ## Perfis
 - Codeforces: [vinilira](https://codeforces.com/profile/vinilira).
