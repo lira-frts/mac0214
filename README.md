@@ -207,8 +207,13 @@ Ainda quero upsolvar mais questões.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/GCPC-2023).
 
-## Total horas = 85h
-- Contest: 65h.
+## 12/OUT - 2h
+Fiz o contest [AtCoder Beginner Contest 375](https://atcoder.jp/contests/abc375/) ao vivo. Consegui passar até a D (acredito que a ideia foi parecida com uma questão que eu já tinha feito em outro ABC, por isso saiu rápido), porém, passei boa parte pensando somente na C. No final, cheguei somente a ler a E (na minha cabeça passou a ideia de busca binária ou PD, mas não desenvolvi bastante) e a F (acredito que a ideia é pré calcular as queries, mas não tive tempo de começar a codar).
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner375).
+
+## Total horas = 87h
+- Contest: 67h.
 - Upsolving: 20h.
 
 ## Perfis
