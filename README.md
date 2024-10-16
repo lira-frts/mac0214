@@ -77,7 +77,7 @@ Upsolvei a E (achei o erro) e a F (fiquei triste porque ela era fácil, se eu ti
 ## 03/SET - 3h (2h + 1h upsolving)
 Fiz o contest [Codeforces Round 971 (Div. 4)](https://codeforces.com/contest/2009) ao vivo. Consegui passar até a E. Dessa vez, apliquei o que eu percebi das últimas vezes de ler a próxima questão caso ficasse travado em alguma (não estava entendendo a saída da C). Além disso, comecei a também escrever códigos em Python para questões que só envolvem contas (comecei isso na questão F do último contest). Embora o CF estivesse travando muito nesse dia, acredito que se não tivesse, do mesmo jeito eu não teria conseguido.
 
-Upsolvei a F sem ler o editorial (eu tive a ideia, mas me perdi muito com os índices). Quero ler depois, para ver se tem um jeito mais fácil.
+Upsolvei a F sem ler o editorial (eu tive a ideia, mas me perdi muito com os índices, quero ler depois, para ver se tem um jeito mais fácil) e as G1-2 (revisei segtree).
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round971).
 
@@ -214,8 +214,15 @@ Upsolvei a E (era PD) e a F (de fato, uma das ideias era pré-calcular as querie
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner375).
 
-## Total horas = 88h
-- Contest: 67h.
+## 13/OUT - 2h
+Fiz o contest [Codeforces Round 978 (Div. 2)](https://codeforces.com/contest/2022) ao vivo. Passei somente a A :(. Fiquei travado na B, no final era só um guloso que eu não tinha percebido. Depois do contest li a C e chutei que era PD (mas mesmo assim, acho que me perderia com as transições se fosse tentar fazer durante o contest).
+
+Ainda quero upsolvar esse contest.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div2-round978)
+
+## Total horas = 90h
+- Contest: 69h.
 - Upsolving: 21h.
 
 ## Perfis
