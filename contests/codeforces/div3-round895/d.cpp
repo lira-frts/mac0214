@@ -19,7 +19,20 @@ using vvpll = vector<vpll>;
 #define pb push_back
 #define all(x) x.begin(),x.end()
 
+ll gcd(ll a, ll b){
+	if(a < b) swap(a, b);
+	if(b == 0) return a;
+	if(a % b == 0) return b;
+	return gcd(b, a % b);
+}
+
 void solve(){
+    ll n, x, y; cin >> n >> x >> y;
+    ll mdc = gcd(x, y), mmc = (x*y)/mdc;
+    ll tx = n/x-n/mmc, ty = n/y-n/mmc, score = 0;
+    score += (n+(n-tx+1))*(tx)/2;
+    score -= (1+ty)*ty/2;
+    cout << score << '\n';
 }
 
 int main(){

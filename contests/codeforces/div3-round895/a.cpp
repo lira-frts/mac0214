@@ -20,6 +20,9 @@ using vvpll = vector<vpll>;
 #define all(x) x.begin(),x.end()
 
 void solve(){
+    ll a, b, c; cin >> a >> b >> c;
+    if(a < b) swap(a, b);
+    cout << ((a-b+1)/2+c-1)/c  << '\n';
 }
 
 int main(){

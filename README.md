@@ -221,9 +221,16 @@ Ainda quero upsolvar esse contest.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div2-round978)
 
-## Total horas = 91h
-- Contest: 69h.
-- Upsolving: 22h.
+## 17/OUT - 3h (2h + 1h upsolving)
+Simulei o contest [Codeforces Round 895 (Div. 3)](https://codeforces.com/contest/1872). Consegui passar até a D (e passei a E poucos minutos depois de acabar), percebi que nesse contest exagerei um pouco em algumas soluções (usando Linear Sieve na C e segtree na E).
+
+Upsolvei a E (na verdade, fiz de novo mas sem segtree), a F (sem ler o editorial) e a G (lendo o editorial). 
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round895)
+
+## Total horas = 94h
+- Contest: 71h.
+- Upsolving: 23h.
 
 ## Perfis
 - Codeforces: [vinilira](https://codeforces.com/profile/vinilira).

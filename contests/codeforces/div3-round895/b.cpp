@@ -20,6 +20,13 @@ using vvpll = vector<vpll>;
 #define all(x) x.begin(),x.end()
 
 void solve(){
+    ll n; cin >> n;
+    ll minimo = 1e9;
+    while(n--){
+        ll d, s; cin >> d >> s;
+        minimo = min(minimo, d+(s-1)/2);
+    }
+    cout << minimo << '\n';
 }
 
 int main(){
