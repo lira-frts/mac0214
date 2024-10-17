@@ -226,7 +226,7 @@ Simulei o contest [Codeforces Round 895 (Div. 3)](https://codeforces.com/contest
 
 Upsolvei a E (na verdade, fiz de novo mas sem segtree), a F (sem ler o editorial) e a G (lendo o editorial). 
 
-[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round895)
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round895).
 
 ## Total horas = 94h
 - Contest: 71h.
