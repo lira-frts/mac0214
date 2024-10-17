@@ -60,10 +60,10 @@ Upsolvei a C (já havia começado no contest) e a D1.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div2-round968).
 
-## 29/AGO - 2h
+## 29/AGO - 3h (2h + 1h upsolving)
 Simulei o contest [Codeforces Round 952 (Div. 4)](https://codeforces.com/contest/1985). Consegui passar até a F. Cheguei a começar a G, tive a ideia de gerar as respostas para os primeiros na força brutal e tentar encontrar um padrão, até consegui, mas não deu tempo de codar. Depois, cheguei a ler o editorial e vi que o padrão estava certo, mas não entendi por que funciona.
 
-Ainda tenho que upsolvar esse contest.
+Upsolvei a G (entendi por que o padrão estava certo) e as H's (acho que foi a primeira vez que vi uma soma acumulada em 2D).
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round952).
 
@@ -221,9 +221,9 @@ Ainda quero upsolvar esse contest.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div2-round978)
 
-## Total horas = 90h
+## Total horas = 91h
 - Contest: 69h.
-- Upsolving: 21h.
+- Upsolving: 22h.
 
 ## Perfis
 - Codeforces: [vinilira](https://codeforces.com/profile/vinilira).
