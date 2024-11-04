@@ -344,14 +344,13 @@ Ainda quero upsolvar mais questões desse contest.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round981).
 
-## 31/OUT - 2h
+## 31/OUT - 3h (2h + 1h upsolving)
 Simulei o contest [Codeforces Round 918 (Div. 4)](https://codeforces.com/contest/1915). Passei até a D (passei até a C rápido e demorei um pouco na D). Fiquei travado na E e na F (cheguei a ter ideia para as duas mas nada que foi muito desenvolvido).
 
 Upsolvei as questões:
 - E - lendo o editorial (durante o contest passou pela minha cabeça que usava soma acumulada, mas não pensei onde usar);
 - F - lendo o editorial e usando pela primeira vez um ordered set.
-
-Ainda quero upsolvar mais questões desse contest.
+- G - sem ler o editorial (tinha percebido que era de dijkstra por já ter feito uma questão parecida)
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round918).
 
@@ -378,7 +377,7 @@ Ainda quero upsolvar esse contest.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round984).
 
-## Total horas = 116h
+## Total horas = 117h
 - Contest: 91h.
 - Upsolving: 25h.
 
