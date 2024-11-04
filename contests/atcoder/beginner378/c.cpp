@@ -19,20 +19,26 @@ using vvpll = vector<vpll>;
 #define pb push_back
 #define all(x) x.begin(),x.end()
 
-#include <ext/pb_ds/assoc_container.hpp>
-using namespace __gnu_pbds;
- 
-template<typename T>
-using ordered_set = tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>; 
-
 void solve(){
+    ll n; cin >> n;
+    map<ll, vll> mp;
+    for(ll i = 0; i < n; i++){
+        ll x; cin >> x;
+        mp[x].pb(i);
+    }
+    vll resp(n);
+    for(auto &[val, v]: mp){
+        resp[v[0]] = - 1;
+        for(ll i = 1; i < v.size(); i++) resp[v[i]] = v[i-1]+1;
+    }
+    for(ll x: resp) cout << x << ' '; cout << '\n';
 }
 
 int main(){
     ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
 
     ll t = 1;
-    cin >> t;
+    //cin >> t;
     
     while(t--) solve();
 }

@@ -26,6 +26,17 @@ template<typename T>
 using ordered_set = tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>; 
 
 void solve(){
+    ll n; cin >> n;
+    vpll v(n);
+    for(auto &[b, a]: v) cin >> a >> b;
+    sort(all(v));
+    ordered_set<ll> os;
+    ll soma = 0;
+    for(auto &[b, a]: v){
+        soma += os.size() - os.order_of_key(a);
+        os.insert(a);
+    }
+    cout << soma << '\n';
 }
 
 int main(){

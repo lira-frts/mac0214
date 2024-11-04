@@ -19,13 +19,17 @@ using vvpll = vector<vpll>;
 #define pb push_back
 #define all(x) x.begin(),x.end()
 
-#include <ext/pb_ds/assoc_container.hpp>
-using namespace __gnu_pbds;
- 
-template<typename T>
-using ordered_set = tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>; 
-
 void solve(){
+    ll a = 0, b = 0, c = 0;
+    for(ll i = 0; i < 9; i++){
+        char x; cin >> x;
+        if(x == 'A') a++;
+        if(x == 'B') b++;
+        if(x == 'C') c++;
+    }
+    if(a == 2) cout << "A\n";
+    if(b == 2) cout << "B\n";
+    if(c == 2) cout << "C\n";
 }
 
 int main(){

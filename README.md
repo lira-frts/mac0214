@@ -1,4 +1,4 @@
-MAC0214 - Registro de Atividades
+# MAC0214 - Registro de Atividades
 
 ## 06/AGO - 3h (2h + 1h upsolving)
 Fiz o contest [Codeforces Round 964 (Div. 4)](https://codeforces.com/contest/1999) ao vivo. Foi minha segunda vez fazendo um contest (a outra única vez que eu tinha feito, foi um Beginner do AtCoder). Para uma segunda vez, gostei do resultado inicial, consegui passar até a E e cheguei a ter uma ideia correta para F porém não tive tempo de codar. Nessa questão F, também aprendi que, dependendo da questão, escrever um código em Python é mais fácil.
@@ -41,7 +41,7 @@ Upsolvei as questões:
 - D - utilizando map, algo que não tinha se passado pela minha cabeça durante a prova
 - E - aprendi o que é nim.
 
-[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div2-round169).
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/educational-round169).
 
 ## 20/AGO - 3h (2h + 1h upsolving)
 Fiz o contest [Codeforces Round 967 (Div. 2)](https://codeforces.com/contest/2001). Consegui passar até a C. Somente li a D, nem deu muito tempo de pensar nela. Tive a impressão de que os códigos eram fáceis de codar, porém, as ideias eram difíceis de chegar.
@@ -94,7 +94,7 @@ Upsolvei as questões:
 Fiz o contest [Codeforces Round 971 (Div. 4)](https://codeforces.com/contest/2009) ao vivo. Consegui passar até a E. Dessa vez, apliquei o que eu percebi das últimas vezes de ler a próxima questão caso ficasse travado em alguma (não estava entendendo a saída da C). Além disso, comecei a também escrever códigos em Python para questões que só envolvem contas (comecei isso na questão F do último contest). Embora o CF estivesse travando muito nesse dia, acredito que se não tivesse, do mesmo jeito eu não teria conseguido.
 
 Upsolvei as questões:
-- F - sem ler o editorial, eu tive a ideia, mas me perdi muito com os índices, quero ler depois para ver se tem um jeito mais fácil;
+- F - sem ler o editorial, eu tive a ideia, mas me perdi muito com os índices, quero ler depois para ver se tem um jeito mais fácil (lendo o editorial depois, percebi que de fato havia um jeito mais fácil de codar, embora a ideia fosse parecida, então substitui o código);
 - G1-2 - revisei segtree.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round971).
@@ -308,8 +308,78 @@ Upsolvei as questões:
 
 Ainda quero upsolvar esse contest.
 
-## Total horas = 100h
-- Contest: 75h.
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div2-round979).
+
+## 26/OUT - 4h
+
+Fiz o contest [AtCoder Beginner Contest 377](https://atcoder.jp/contests/abc377/) ao vivo. Consegui passar até a C. Fiquei travado na D e não consegui desenvolver uma ideia para resolver.
+
+Ainda quero upsolvar esse contest.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner377).
+
+Além disso, nesse mesmo dia também fiz o contest [Codeforces Round 982 (Div. 2)](https://codeforces.com/contest/2027) ao vivo. Consegui passar até a D1, acredito que até agora foi o meu melhor desempenho, embora tenha demorado um pouco em todas as questões.
+
+Nesse contest, virei ciano no CF :)
+
+Ainda quero upsolvar esse contest.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div2-round982).
+
+## 28/OUT - 2h
+Fiz o contest [Educational Codeforces Round 171 (Rated for Div. 2)](https://codeforces.com/contest/2026) ao vivo. Consegui passar até a B. Pensei que a C era guloso e não tava conseguindo ter uma ideia, então fui para D e achei que sabia então comecei a escrever o código, porém percebi só depois que não tinha entendido direito o problema, passando só a A e a B no final. Porém, fui hackeado na A porque não tinha analisado direito a complexidade.
+
+Nesse contest, voltei para o verde :(
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/educational-round171).
+
+## 29/OUT - 2h
+Simulei o contest [Codeforces Round 981 (Div. 3)](https://codeforces.com/contest/2033). Passei até a D, fiquei travado na E e na F (fiquei alternando entre essas questões). Na E, eu tive uma ideia certa, porém me atrapalhei na implementação. Na F, havia uma propriedade de TN que eu assumi que era verdade (de fato era) mas mesmo assim, havia uma outra ideia que eu não tive.
+
+Upsolvei as questões:
+- E - consegui implementar a minha ideia (embora o editorial apontasse outra solução);
+- F - vi que a propriedade que eu havia assumido como verdade de fato era verdade e li no editorial a outra ideia que eu não tive.
+
+Ainda quero upsolvar mais questões desse contest.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round981).
+
+## 31/OUT - 2h
+Simulei o contest [Codeforces Round 918 (Div. 4)](https://codeforces.com/contest/1915). Passei até a D (passei até a C rápido e demorei um pouco na D). Fiquei travado na E e na F (cheguei a ter ideia para as duas mas nada que foi muito desenvolvido).
+
+Upsolvei as questões:
+- E - lendo o editorial (durante o contest passou pela minha cabeça que usava soma acumulada, mas não pensei onde usar);
+- F - lendo o editorial e usando pela primeira vez um ordered set.
+
+Ainda quero upsolvar mais questões desse contest.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round918).
+
+## 01/NOV - 2h
+Fiz o contest [Codeforces Round 983 (Div. 2)](https://codeforces.com/contest/2032). Passei até a B, fiquei travado na C (somente tive algumas ideias mas nenhuma muito desenvolvida).
+
+Ainda quero upsolvar esse contest.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div2-round983).
+
+## 02/NOV - 4h
+
+Fiz o contest [AtCoder Beginner Contest 378](https://atcoder.jp/contests/abc378) ao vivo. Consegui passar até a C. Fiquei travado na D, somente tendo algumas ideias iniciais mas nenhuma muito desenvolvida.
+
+Ainda quero upsolvar esse contest.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner378).
+
+Além disso, nesse mesmo dia também fiz o contest [Codeforces Round 984 (Div. 3)](https://codeforces.com/contest/2036) ao vivo. Consegui passar até a E, fiquei travado na F (nesse contest, até a questão E era somente questão de implementar, somente as questões F e G tinham que "pensar um pouco mais").
+
+Nesse contest, voltei para o ciano no CF :)
+
+Ainda quero upsolvar esse contest.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round984).
+
+## Total horas = 116h
+- Contest: 91h.
 - Upsolving: 25h.
 
 ## Perfis

@@ -19,13 +19,22 @@ using vvpll = vector<vpll>;
 #define pb push_back
 #define all(x) x.begin(),x.end()
 
-#include <ext/pb_ds/assoc_container.hpp>
-using namespace __gnu_pbds;
- 
-template<typename T>
-using ordered_set = tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>; 
+string c = "bcd";
 
 void solve(){
+    ll n; cin >> n;
+    string s; cin >> s;
+    for(ll i = 0; i < n-2; i++){
+        cout << s[i];
+        if(c.find(s[i]) == -1 && c.find(s[i+1]) != -1){
+            if(c.find(s[i+2]) != -1){
+                cout << s[i+1] << '.';
+                i++;
+            }
+            else cout << '.';
+        }
+    }
+    cout << s[n-2] << s[n-1] << '\n';
 }
 
 int main(){
