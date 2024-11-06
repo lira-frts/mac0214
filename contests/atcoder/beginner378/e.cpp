@@ -27,13 +27,25 @@ template<typename T>
 using ordered_set = tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>; 
 
 void solve(){
+    ll n, m; cin >> n >> m;
+    vll v(n), acc(n+1);
+    for(ll i = 0; i < n; i++) cin >> v[i], acc[i+1] = (acc[i] + v[i]) % m;
+    ll resp = 0, s = 0;
+    ordered_set<pll> os; os.insert({0, 0});
+    for(ll i = 1; i <= n; i++){
+        ll xr = os.size() - os.order_of_key({acc[i], i});
+        resp += (acc[i] * i - s + m * xr);
+        s += acc[i];
+        os.insert({acc[i], i});
+    }
+    cout << resp << '\n';
 }
 
 int main(){
     ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
 
     ll t = 1;
-    cin >> t;
+    //cin >> t;
     
     while(t--) solve();
 }

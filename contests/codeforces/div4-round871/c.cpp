@@ -26,7 +26,19 @@ using namespace __gnu_pbds;
 template<typename T>
 using ordered_set = tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>; 
 
+const ll INF = 1e18;
+
 void solve(){
+    ll n; cin >> n;
+    ll min1 = INF, min2 = INF, min3 = INF; 
+    for(ll i = 0; i < n; i++){
+        ll x; string s; cin >> x >> s;
+        if(s[0] == '1') min1 = min(min1, x);
+        if(s[1] == '1') min2 = min(min2, x);
+        if(s == "11") min3 = min(min3, x);
+    }
+    if(min1 == INF || min2 == INF) cout << -1 << '\n';
+    else cout << min(min1 + min2, min3) << '\n';
 }
 
 int main(){

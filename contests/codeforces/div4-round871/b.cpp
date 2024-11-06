@@ -27,6 +27,15 @@ template<typename T>
 using ordered_set = tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>; 
 
 void solve(){
+    ll n; cin >> n;
+    vll v(n);
+    for(ll &vi: v) cin >> vi;
+    ll maior = 0, atual = 0;
+    for(ll i = 0; i < n; i++)
+        if(v[i] != 0) maior = max(maior, atual), atual = 0;
+        else atual++;
+    maior = max(maior, atual);
+    cout << maior << '\n';
 }
 
 int main(){

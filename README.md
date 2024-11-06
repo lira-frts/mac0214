@@ -377,9 +377,19 @@ Ainda quero upsolvar esse contest.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round984).
 
-## Total horas = 117h
-- Contest: 91h.
-- Upsolving: 25h.
+## 05/NOV - 3h (2h + 1h upsolving)
+
+Simulei o contest [Codeforces Round 871 (Div. 4)](https://codeforces.com/contest/1829). Consegui passar até a F. Para a G, chutei que deveria usar soma acumulada (mas não em 2D) e li errado a H (pensei que a_i < 2^64 e não < 64, mas mesmo assim, acho que não conseguiria fazer a pd sem ler o editorial).
+
+Upsolvei as questões:
+- G - lendo o editorial e fazendo uma soma acumulada em 2d.
+- H - lendo o editorial e verificando a transição da pd.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round871).
+
+## Total horas = 120h
+- Contest: 93h.
+- Upsolving: 27h.
 
 ## Perfis
 - Codeforces: [vinilira](https://codeforces.com/profile/vinilira).

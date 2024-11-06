@@ -26,7 +26,14 @@ using namespace __gnu_pbds;
 template<typename T>
 using ordered_set = tree<T, null_type, less<T>, rb_tree_tag, tree_order_statistics_node_update>; 
 
+string t = "codeforces";
+
 void solve(){
+    string s; cin >> s;
+    ll cont = 0;
+    for(ll i = 0; i < s.size(); i++)
+        if(s[i] != t[i]) cont++;
+    cout << cont << '\n';
 }
 
 int main(){
