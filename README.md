@@ -387,8 +387,14 @@ Upsolvei as questões:
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round871).
 
-## Total horas = 120h
-- Contest: 93h.
+## 09/NOV - 2h
+
+Fiz o contest ao [AtCoder Beginner Contest 379](https://atcoder.jp/contests/abc379) ao vivo. Passei somente até a B. Fiquei travado na C pois tinha entendido errado o enunciado e também porque não estava muito bem nesse dia.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner379).
+
+## Total horas = 122h
+- Contest: 95h.
 - Upsolving: 27h.
 
 ## Perfis
