@@ -393,9 +393,47 @@ Fiz o contest ao [AtCoder Beginner Contest 379](https://atcoder.jp/contests/abc3
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner379).
 
-## Total horas = 122h
-- Contest: 95h.
-- Upsolving: 27h.
+## 19/NOV - 2h
+
+Simulei o contest [Codeforces Round 988 (Div. 3)](https://codeforces.com/contest/2037). Passei somente até a D. Fiquei travado na E, somente tendo algumas ideias, mas não chegando na solução.
+
+Upsolvei as questões:
+- E - lendo o editorial;
+- H - lendo o editorial.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round988).
+
+## 26/NOV - 3h (2h + 1h upsolving)
+
+Simulei o contest [Codeforces Round 898 (Div. 4)](https://codeforces.com/contest/1873). Passei somente até a E. Fiquei travado na F, mesmo tendo achado a solução, me compliquei na hora de implementar.
+
+Upsolvei as questões:
+- F - achei os erros da minha implementação ao vivo;
+- G - lendo o editorial;
+- H - sem ler o editorial, achei engraçado que a solução veio de forma bem natural para mim.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round898).
+
+## 28/NOV - 5h
+
+Simulei o contest [TAP 2023](https://codeforces.com/gym/104603) em grupo com meus amigos [Fernando Lima](https://codeforces.com/profile/FerLima) e [Octavio Carneiro](https://codeforces.com/profile/Carneiro). Conseguimos fazer as questões A, B, C, D, F, L e M. Ficamos travados na N, embora tínhamos tido algumas ideias, nenhuma deu certo :(
+
+Ainda quero upsolvar mais questões (embora esse contest não tenha editorial, meus amigos [Otávio de Oliveira](https://codeforces.com/profile/otavio.ols), [Rafael Sesoko](https://codeforces.com/profile/rkaiki) e [Pedro Simões](https://codeforces.com/profile/p5imoes) já fizeram questões que a gente não conseguiu fazer, então vamos tentar ver com eles).
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/TAP-2023).
+
+## 02/DEZ - 3h (2h + 1h upsolving)
+
+Simulei o contest [Codeforces Round 790 (Div. 4)](https://codeforces.com/contest/1676). Passei até G. Fiquei travado nas H's, percebi só quando acabei que tinha entendido o problema errado :( (isso aconteceu mais de uma vez nesse contest, além de eu não ter pensado o suficiente em algumas soluções e ter tomado tle).
+
+Upsolvei as questões:
+- H's - lendo somente o início do editorial e percebendo que tinha entendido o problema errado.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round790).
+
+## Total horas = 135h
+- Contest: 101h.
+- Upsolving: 29h.
 
 ## Perfis
 - Codeforces: [vinilira](https://codeforces.com/profile/vinilira).
