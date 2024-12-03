@@ -393,13 +393,14 @@ Fiz o contest ao [AtCoder Beginner Contest 379](https://atcoder.jp/contests/abc3
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/atcoder/beginner379).
 
-## 19/NOV - 2h
+## 19/NOV - 3h (2h + 1h upsolving)
 
 Simulei o contest [Codeforces Round 988 (Div. 3)](https://codeforces.com/contest/2037). Passei somente até a D. Fiquei travado na E, somente tendo algumas ideias, mas não chegando na solução.
 
 Upsolvei as questões:
 - E - lendo o editorial;
-- H - lendo o editorial.
+- F - lendo o editorial (achei bonitinho);
+- G - lendo o editorial.
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round988).
 
@@ -431,9 +432,9 @@ Upsolvei as questões:
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round790).
 
-## Total horas = 135h
-- Contest: 101h.
-- Upsolving: 29h.
+## Total horas = 136h
+- Contest: 106h.
+- Upsolving: 30h.
 
 ## Perfis
 - Codeforces: [vinilira](https://codeforces.com/profile/vinilira).
