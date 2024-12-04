@@ -432,8 +432,20 @@ Upsolvei as questões:
 
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div4-round790).
 
-## Total horas = 136h
-- Contest: 106h.
+## 03/DEZ - 2h
+
+Simulei o contest [Codeforces Round 954 (Div. 3)](https://codeforces.com/contest/1986). Passei somente até B. Fiquei travado na C, percebi só quando acabei que tinha entendido o problema errado :( .
+
+Upsolvei as questões:
+- C - lendo o início do editorial e percebendo que tinha entendido errado;
+- D - sem ler o editorial (minha primeira ideia foi bitmask, mas só depois percebi que a complexidade não dava);
+- E - sem ler o editorial;
+- F - lendo o editorial e codando pela primeira vez um algoritmo para achar pontes.
+
+[Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round954).
+
+## Total horas = 138h
+- Contest: 102h.
 - Upsolving: 30h.
 
 ## Perfis
