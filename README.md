@@ -445,7 +445,7 @@ Upsolvei as questões:
 [Códigos aqui](https://github.com/lira-frts/mac0214/tree/main/contests/codeforces/div3-round954).
 
 ## Total horas = 138h
-- Contest: 102h.
+- Contest: 108h.
 - Upsolving: 30h.
 
 ## Perfis
